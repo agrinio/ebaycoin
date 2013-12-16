@@ -1,0 +1,4 @@
+ebaycoin
+========
+
+altcoin
